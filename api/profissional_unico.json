@@ -1,0 +1,41 @@
+{
+    "success": true,
+    "content": {
+        "informacoes": [
+            {
+                "rqe": "",
+                "conselho": null,
+                "documento_conselho": "",
+                "uf_conselho": "",
+                "CPF": "058.197.797-75",
+                "nome": "sala1",
+                "foto":"assets/img/img_aatar1.png",
+                "data_nascimento": "31-12-1969",
+                "sexo": "Feminino",
+                "telefones": [
+                    "",
+                    ""
+                ],
+                "celulares": [
+                    "",
+                    ""
+                ],
+                "email": "",
+                "idade_minima": null,
+                "rua": "",
+                "numero_rua": "",
+                "complemento": "",
+                "cidade": "",
+                "bairro": "",
+                "CEP": ""
+            }
+        ],
+        "especialidades": [
+            {
+                "especialidade_id": null,
+                "nome_especialidade": null,
+                "CBOS": null
+            }
+        ]
+    }
+}

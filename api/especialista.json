@@ -1,0 +1,357 @@
+{
+    "success": true,
+    "content": [
+        {
+            "especialidade_id": 263,
+            "nome": "Acupuntura",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225105"
+        },
+        {
+            "especialidade_id": 281,
+            "nome": "Agente Comunitário de Saúde",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "515105"
+        },
+        {
+            "especialidade_id": 258,
+            "nome": "Alergia e imunologia",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225110"
+        },
+        {
+            "especialidade_id": 251,
+            "nome": "alergista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": null
+        },
+        {
+            "especialidade_id": 187,
+            "nome": "Assistente social",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "251605"
+        },
+        {
+            "especialidade_id": 212,
+            "nome": "Auxiliar de enfermagem",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "322230"
+        },
+        {
+            "especialidade_id": 84,
+            "nome": "Biológo",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "221105"
+        },
+        {
+            "especialidade_id": 247,
+            "nome": "Cirurgião",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": null
+        },
+        {
+            "especialidade_id": 157,
+            "nome": "Cirurgião dentista (endodontia)",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223212"
+        },
+        {
+            "especialidade_id": 158,
+            "nome": "Cirurgião dentista (ortodontia)",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223240"
+        },
+        {
+            "especialidade_id": 160,
+            "nome": "Cirurgião dentista (pediatria)",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223236"
+        },
+        {
+            "especialidade_id": 241,
+            "nome": "Cirurgião dentista - odontogeriatra",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223228"
+        },
+        {
+            "especialidade_id": 240,
+            "nome": "Cirurgião dentista - odontologista legal",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223232"
+        },
+        {
+            "especialidade_id": 155,
+            "nome": "Cirurgião Dentista de Saúde da Familia",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "2232-93"
+        },
+        {
+            "especialidade_id": 154,
+            "nome": "Cirurgião dentista em geral",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223208"
+        },
+        {
+            "especialidade_id": 252,
+            "nome": "Dermato Estética",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225135"
+        },
+        {
+            "especialidade_id": 278,
+            "nome": "DERMATOLOGISTA",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": null
+        },
+        {
+            "especialidade_id": 246,
+            "nome": "Esteticista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "516115"
+        },
+        {
+            "especialidade_id": 192,
+            "nome": "Fisioterapeuta geral",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223605"
+        },
+        {
+            "especialidade_id": 201,
+            "nome": "Fonoaudiólogo",
+            "consulta_id": 509,
+            "consulta_online_id": 697,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223810"
+        },
+        {
+            "especialidade_id": 137,
+            "nome": "Médico acupunturista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225105"
+        },
+        {
+            "especialidade_id": 150,
+            "nome": "Médico angiologista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225115"
+        },
+        {
+            "especialidade_id": 96,
+            "nome": "Médico cardiologista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225120"
+        },
+        {
+            "especialidade_id": 99,
+            "nome": "Médico cirurgião cardiovascular",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225210"
+        },
+        {
+            "especialidade_id": 152,
+            "nome": "Médico cirurgião plástico",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225235"
+        },
+        {
+            "especialidade_id": 132,
+            "nome": "Médico citopatologista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225305"
+        },
+        {
+            "especialidade_id": 89,
+            "nome": "Médico Clínico Geral",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225125"
+        },
+        {
+            "especialidade_id": 98,
+            "nome": "Médico dermatologista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225135"
+        },
+        {
+            "especialidade_id": 101,
+            "nome": "Médico do trabalho",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225140"
+        },
+        {
+            "especialidade_id": 104,
+            "nome": "Médico endocrinologista e metabologista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225155"
+        },
+        {
+            "especialidade_id": 128,
+            "nome": "Médico ginecologista / obstetra",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225250"
+        },
+        {
+            "especialidade_id": 110,
+            "nome": "Médico neurocirurgião",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225260"
+        },
+        {
+            "especialidade_id": 126,
+            "nome": "Médico oftalmologista",
+            "consulta_id": 1,
+            "consulta_online_id": 501,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225265"
+        },
+        {
+            "especialidade_id": 129,
+            "nome": "Médico ortopedista e traumatologista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225270"
+        },
+        {
+            "especialidade_id": 134,
+            "nome": "Médico pediatra",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225124"
+        },
+        {
+            "especialidade_id": 141,
+            "nome": "Médico psiquiatra",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225133"
+        },
+        {
+            "especialidade_id": 148,
+            "nome": "Médico urologista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "225285"
+        },
+        {
+            "especialidade_id": 167,
+            "nome": "Nutricionista em geral",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223710"
+        },
+        {
+            "especialidade_id": 248,
+            "nome": "odontologia",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "53021"
+        },
+        {
+            "especialidade_id": 189,
+            "nome": "Ortoptista",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "223910"
+        },
+        {
+            "especialidade_id": 224,
+            "nome": "Pesquisador em biologia de microorganismos e parasitas",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "203015"
+        },
+        {
+            "especialidade_id": 262,
+            "nome": "Psicólogo ",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": null
+        },
+        {
+            "especialidade_id": 188,
+            "nome": "Psicólogo clínico",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "251510"
+        },
+        {
+            "especialidade_id": 273,
+            "nome": "Técnico de Saúde Bucal",
+            "consulta_id": 1,
+            "consulta_online_id": 533,
+            "exibir_agendamento_online": 1,
+            "codigo_tiss": "322405"
+        }
+    ]
+}

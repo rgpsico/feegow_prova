@@ -1,0 +1,172 @@
+.agendar{
+margin:0;
+padding:0;
+height:20px;
+width:80px;
+font-size:10px;
+text-transform:capitalize;
+border-radius:20px;
+text-shadow:1px  #fff;
+}
+.count-prof{
+	font-weight:300;
+	font-size:20px;
+}
+.container-card{
+	display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(200px, 70fr));
+    
+}
+
+.agendar_ini{
+
+border-radius:20px;
+height:40px;
+font-size:14px;
+
+}
+
+.item{
+    padding-left:15px;
+    width:200px; 
+	min-height:100px;
+	background:;
+    border-radius:10px;
+    box-shadow: 2px 2px 5px #ccc;
+ }
+
+.item p{
+	font-size:12px;
+    margin-bottom:5px;
+}
+
+.nome_profi{
+	margin-top:20px;
+    font-weight:bold;
+}
+
+
+.crm{
+	margin-top:10px;
+	
+	min-height:20px;
+
+}
+.foto{
+	margin-right:10px;
+	margin-top:15px;
+	float:left;
+	width:50px;
+	height:90px;
+	
+	
+}
+.foto img{
+	border-radius:100px;
+	max-width:50px;
+    min-height:50px;
+}
+
+#button{
+	display:block;
+	margin:20px auto;
+	padding:10px 30px;
+	background-color:#eee;
+	border:solid #ccc 1px;
+    cursor: pointer;
+}
+
+#overlay{	
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	width: 100%;
+	height:100%;
+	display: none;
+	background: rgba(0,0,0,0.6);
+}
+
+.cv-spinner {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;  
+}
+.spinner {
+	width: 40px;
+	height: 40px;
+	border: 4px #ddd solid;
+	border-top: 4px #2e93e6 solid;
+	border-radius: 50%;
+	animation: sp-anime 0.8s infinite linear;
+}
+
+@keyframes sp-anime {
+	100% { 
+		transform: rotate(360deg); 
+	}
+}
+.is-hide{
+	display:none;
+}
+
+.label{
+	display:flex;
+	width:100%;
+	background:#4c9ad8;
+	padding:20px;
+	font-weight:bold;
+	color:#fff;
+}
+.select_teste{
+	margin-left:10px;
+	margin-right:20px;
+	width:60%;
+	background:#fff;
+}
+
+.agendar-inicio{
+	border-radius:90px;
+	height:30px;
+	width:100;
+	font-size:14px;
+	background:#6ac36f;
+   
+	}
+	
+/*Formulario cadastro*/
+
+.solicitar{
+border-radius:20px;
+	padding:0;
+	margin-bottom:20px;
+      margin-left:340px;
+	width:150px;
+	height:34px;
+}
+#solicitar_form {
+	padding:0;
+	margin:0;
+}
+#solicitar_form input{
+	
+	border-radius:10px; 
+	margin-right:20px;
+	font-color:#ccc;
+	text-transform:capitalize;
+	font-weight:600;
+
+}
+#nome{
+	height:39px;	
+	margin-bottom:10px;
+	
+ }
+ #source_id{
+ 	height:39px;
+ 	border-radius:10px; 
+ }
+#cpf{width: }
+
+#birthDate{width:60px;  }
+
