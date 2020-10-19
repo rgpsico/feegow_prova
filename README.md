@@ -2,9 +2,23 @@
 
 ## Descrição do Projeto
 <p align="justify"> 
-Para testar Basta extrair na sua maquina com um servidor PHP. 
-Para ver o funcionamento só clicar <a href="https://rogerneves.com.br/teste/medico/">aqui</a>. 
+Para testar é só extrair na sua maquina com um servidor PHP.<br/>
+Para ver o funcionamento só clicar <a href="https://rogerneves.com.br/teste/medico/">aqui</a>. <br/>
 Tem um arquivo SQL para extração com a tabela  e os campos para o cadastro do paciente.
+No arquivo Config.inc.php 
+ 
+
+## Controller
+ api/Conn
+ api/Helpers
+ api/Models
+
+## assets
+assets/style/style.css
+assets/js/main.js 
+assets/js/Utils.js
+include/header.php   footer.php
+index.php
   
 </p>
 
